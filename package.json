@@ -1,0 +1,17 @@
+{
+  "name": "health-boss",
+  "version": "0.0.1",
+  "description": "Middleware to give ability to add as many custom health checks and produce status page",
+  "author": {
+    "name": "Trevor Bossert",
+    "email": "tbossert@vurb.com"
+  },
+  "main": "./lib",
+  "keywords": [],
+  "dependencies": {
+    "async": "1.5.2",
+    "require-dir": "0.3.0",
+    "underscore": "1.6.0"
+  },
+  "license": "Apache License"
+}
